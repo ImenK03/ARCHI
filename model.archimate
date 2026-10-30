@@ -1376,7 +1376,7 @@
           <bounds x="1104" y="24" width="385" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-616cc42432894814a14f64a38c5d99ad" archimateElement="id-780e78d3b52046ca892a5cda210d8a9d">
-          <bounds x="252" y="216" width="157" height="55"/>
+          <bounds x="281" y="216" width="157" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-48a1f50e72264c4eb0889e9ce2ce06cb" source="id-616cc42432894814a14f64a38c5d99ad" target="id-af4f961a2baa44a3adbe3aa58480e81b" archimateRelationship="id-6c3307ce261f41f09c7c164db0644195"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-0f7f92bf59164c98b5cf4b74809fa77b" source="id-616cc42432894814a14f64a38c5d99ad" target="id-ade7b02012fa44c789d4d254bbbc095f" archimateRelationship="id-e664b5d18b2d450bb4181369f6310c6b"/>
         </child>
